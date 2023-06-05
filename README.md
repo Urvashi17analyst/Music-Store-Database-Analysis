@@ -4,4 +4,5 @@ Executed an in-depth analysis of a music store database using SQL, effectively l
 
 
 •	The file Music_store_queries.sql contains all the queries that I made to answer the business queries
+
 •	All the data files (tables) are present in the folder title - 'music store data'
